@@ -1,0 +1,155 @@
+Alternate Hammer Dumbbell  Curl                    multiplier: 2.0
+Alternating Body Weight Reverse Lunge              multiplier: 2.0
+Arnold Dumbbell Press                              multiplier: 2.0
+Arnold's 1% Circuit (Bodyweight)                   multiplier: 1.0
+Barbell Bench Press                                multiplier: 1.0
+Barbell Curl                                       multiplier: 1.0
+Barbell Deadlift                                   multiplier: 1.0
+Barbell Glute Bridge                               multiplier: 1.0
+Barbell Incline Bench Press                        multiplier: 1.0
+Barbell Squat                                      multiplier: 1.0
+Beach Volleyball                                   multiplier: 1.0
+Bench Dip (Seated Dip)                             multiplier: 1.0
+Bench Dips                                         multiplier: 1.0
+Bent Over Barbell Row                              multiplier: 1.0
+Bent Over Two-Dumbbell Row                         multiplier: 2.0
+Bent Over Two-Dumbbell Row With Palms In           multiplier: 2.0
+Bent-Arm Dumbbell Pullover                         multiplier: 2.0
+Bicycle                                            multiplier: 1.0
+Bird Dog                                           multiplier: 1.0
+Body Weight Hip Thrust                             multiplier: 1.0
+Body Weight Lunge                                  multiplier: 2.0
+Body Weight Side Step Up                           multiplier: 1.0
+Body Weight Squat                                  multiplier: 1.0
+Bodyweight Bosu Ball Squats                        multiplier: 1.0
+Box Jumps                                          multiplier: 1.0
+Burpee                                             multiplier: 1.0
+Cable Crossover                                    multiplier: 1.0
+Chin-Up                                            multiplier: 1.0
+Clap Push-Up                                       multiplier: 1.0
+Close Grip Pull-Up                                 multiplier: 1.0
+Concentration Curls                                multiplier: 1.0
+Cross Body Hammer Dumbbell Curl                    multiplier: 2.0
+Crunch                                             multiplier: 1.0
+Cycling                                            multiplier: 1.0
+Cycling (stationary)                               multiplier: 1.0
+Dead Bug                                           multiplier: 1.0
+Decline Dumbbell Bench Press                       multiplier: 2.0
+Decline Push-Up                                    multiplier: 1.0
+Diamond Push-Up                                    multiplier: 1.0
+Dips - Chest Version                               multiplier: 1.0
+Dips - Triceps Version                             multiplier: 1.0
+Dumbbell 2-Arm Triceps Extension                   multiplier: 1.0
+Dumbbell 21 curls                                  multiplier: 1.0
+Dumbbell Bench Press                               multiplier: 2.0
+Dumbbell Bicep Curl                                multiplier: 2.0
+Dumbbell Deadlift                                  multiplier: 2.0
+Dumbbell Flyes                                     multiplier: 2.0
+Dumbbell Lunges                                    multiplier: 2.0
+Dumbbell Shrug                                     multiplier: 2.0
+Dumbbell Side Bend                                 multiplier: 2.0
+Dumbbell Side Lateral Raise                        multiplier: 2.0
+Dumbbell Squat                                     multiplier: 2.0
+Dumbbell Stationary Lunge                          multiplier: 2.0
+Dumbbell Step Ups                                  multiplier: 2.0
+Dumbbell Sumo Squat                                multiplier: 1.0
+Dumbbell Thrusters                                 multiplier: 1.0
+Elliptical Trainer                                 multiplier: 1.0
+Face Pull                                          multiplier: 1.0
+Feet Elevated Side Plank Abduction                 multiplier: 1.0
+Fire Hydrants                                      multiplier: 1.0
+Flexed-Arm Hang                                    multiplier: 1.0
+Foam Rolling                                       multiplier: 1.0
+Front Dumbbell Raise                               multiplier: 2.0
+Glute Bridge                                       multiplier: 1.0
+Goblet Squat (dumbbell)                            multiplier: 1.0
+Hammer Dumbbell Curl                               multiplier: 2.0
+Hand Gripper                                       multiplier: 1.0
+Hiking                                             multiplier: 1.0
+Incline Dumbbell Bench Press                       multiplier: 2.0
+Incline Push-Up                                    multiplier: 1.0
+Indoor Volleyball                                  multiplier: 1.0
+Jump Squat (Toyotas)                               multiplier: 1.0
+Jumping Jacks                                      multiplier: 1.0
+Lake Kayaking                                      multiplier: 1.0
+Lat Pulldown                                       multiplier: 1.0
+Leg Extensions                                     multiplier: 1.0
+Leg Press                                          multiplier: 1.0
+Machine Bench Press                                multiplier: 1.0
+Machine Chest Fly (Pec Deck)                       multiplier: 1.0
+Mixed Grip Chin                                    multiplier: 1.0
+Monster Walks                                      multiplier: 1.0
+Moving boxes                                       multiplier: 1.0
+Oblique Crunch                                     multiplier: 1.0
+One-Arm Dumbbell Row                               multiplier: 2.0
+One-Leg Body Weight Glute Bridge                   multiplier: 1.0
+Other Bodyweight                                   multiplier: 1.0
+Other Weightlifting                                multiplier: 1.0
+Overhead Dumbbell Squat                            multiplier: 2.0
+Paintball                                          multiplier: 1.0
+Parallel-Grip Pull-Up                              multiplier: 1.0
+Pendlay Row                                        multiplier: 1.0
+Plank                                              multiplier: 1.0
+Plank Jacks                                        multiplier: 1.0
+Plank Progression                                  multiplier: 1.0
+Pull-Up                                            multiplier: 1.0
+Push-Up                                            multiplier: 1.0
+Recreational Swimming                              multiplier: 1.0
+Renegade Push-Up                                   multiplier: 2.0
+Renegade Row                                       multiplier: 2.0
+Reptile (Spider) Push-Up                           multiplier: 1.0
+Romanian Deadlift                                  multiplier: 1.0
+Romanian Dumbbell Deadlift                         multiplier: 2.0
+Rowing (machine)                                   multiplier: 1.0
+Running                                            multiplier: 1.0
+Running (treadmill)                                multiplier: 1.0
+Running Stairs                                     multiplier: 1.0
+Russian Twist                                      multiplier: 1.0
+Seated Cable Row                                   multiplier: 1.0
+Seated Dumbbell Curl                               multiplier: 2.0
+Seated Dumbbell Palms-Down Wrist Curl              multiplier: 2.0
+Seated Dumbbell Palms-Up Wrist Curl                multiplier: 2.0
+Seated Dumbbell Shoulder Press                     multiplier: 2.0
+Seated Leg Curl                                    multiplier: 1.0
+Short Bridge                                       multiplier: 1.0
+Side Plank                                         multiplier: 1.0
+Side Plank Lifts                                   multiplier: 1.0
+Sit-Up                                             multiplier: 1.0
+Sitting on my Butt                                 multiplier: 1.0
+Smith Machine Bench Press                          multiplier: 1.0
+Smith Machine Squat                                multiplier: 1.0
+Standing Barbell Shoulder Press (OHP)              multiplier: 1.0
+Standing Biceps Cable Curl                         multiplier: 1.0
+Standing Calf Raise                                multiplier: 1.0
+Standing Dumbbell Calf Raise                       multiplier: 2.0
+Standing Dumbbell Push Press                       multiplier: 2.0
+Standing Dumbbell Reverse Curl                     multiplier: 2.0
+Standing Dumbbell Shoulder Press                   multiplier: 2.0
+Standing Dumbbell Upright Row                      multiplier: 2.0
+Standing Inner-Biceps Curl                         multiplier: 1.0
+Standing One-Arm Dumbbell Shoulder Press           multiplier: 2.0
+Standing One-Arm Dumbbell Triceps Extension        multiplier: 2.0
+Standing Palms-In Dumbbell Shoulder Press          multiplier: 2.0
+Stomach Vacuums                                    multiplier: 1.0
+Stretching                                         multiplier: 1.0
+Sumo Deadlift                                      multiplier: 1.0
+Superman Hold                                      multiplier: 1.0
+Svend Press                                        multiplier: 1.0
+Swimming                                           multiplier: 1.0
+Trail Running                                      multiplier: 1.0
+Ultimate Frisbee                                   multiplier: 1.0
+Uneven Pull-Up                                     multiplier: 1.0
+V-Up                                               multiplier: 1.0
+Walked up the stairs (in lieu of the elevator)     multiplier: 1.0
+Walking                                            multiplier: 1.0
+Walking (treadmill)                                multiplier: 1.0
+Walking Dumbbell Lunges                            multiplier: 2.0
+Walking Lunge                                      multiplier: 2.0
+Weighted Crunch                                    multiplier: 1.0
+Weighted Russian Twist                             multiplier: 1.0
+Weighted Sit-Up                                    multiplier: 1.0
+Wide Arm Push-Up                                   multiplier: 1.0
+Wide-Grip Chin-Up                                  multiplier: 1.0
+Wide-Grip Lat Pulldown                             multiplier: 1.0
+Wide-Grip Pull-Up                                  multiplier: 1.0
+Yates Row                                          multiplier: 1.0
